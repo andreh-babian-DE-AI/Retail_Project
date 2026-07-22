@@ -53,6 +53,7 @@ Retail\_Project/
 │
 ├── notebooks/
 │   ├── 01\_Data\_Exploration.ipynb 
+│           [click here to run notebook01](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
 │   ├── 02\_Data\_Cleaning.ipynb
 │   ├── 03\_Data\_Validation.ipynb
 │   └── 04\_Data\_Analysis.ipynb
