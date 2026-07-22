@@ -52,7 +52,7 @@ Retail\_Project/
 │   └── retail\_sales\_cleaned.csv
 │
 ├── notebooks/
-│   ├── 01\_Data\_Exploration.ipynb [![click here to run the notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
+│   ├── 01\_Data\_Exploration.ipynb 
 │   ├── 02\_Data\_Cleaning.ipynb
 │   ├── 03\_Data\_Validation.ipynb
 │   └── 04\_Data\_Analysis.ipynb
@@ -60,8 +60,10 @@ Retail\_Project/
 ├── images/
 ├── README.md
 └── Project\_Document.xlsx
-
 ```
+[click here to run notebook01](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
+
+
 Status
 
 This project is currently under development and will be expanded with additional notebooks, ETL workflows, SQL analysis, dashboards, and predictive analytics.
