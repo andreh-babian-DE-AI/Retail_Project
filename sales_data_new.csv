@@ -1,6 +1,0 @@
-date,region,product,sales,price,cost,irrelevant_column_1
-2024-01-01,North,Widget A,1500.0,25.0,10.0,extra1
-2024-01-02,South,Widget B,,20.0,8.0,extra3
-2024-01-03,North,Widget C,1200.0,15.0,7.5,extra5
-2024-01-04,East,Widget C,600.0,,5.0,extra7
-2024-01-05,West,Widget A,950.0,22.0,11.0,extra9
