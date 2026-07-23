@@ -8,6 +8,8 @@ Retail\_Project is an end-to-end data pipeline project that demonstrates how Pyt
 
 The project showcases practical data engineering and data analysis techniques using Python and industry-standard libraries to transform raw retail sales data into clean, validated, and analysis-ready datasets.
 
+[click here to run notebook01](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
+
 ## Project Objectives
 
 * Explore raw retail sales data using Jupyter Notebooks.
@@ -44,7 +46,6 @@ The project showcases practical data engineering and data analysis techniques us
 ## Repository Structure
 
 ```
-
 Retail\_Project/
 │
 ├── data/
@@ -53,17 +54,16 @@ Retail\_Project/
 │
 ├── notebooks/
 │   ├── 01\_Data\_Exploration.ipynb 
-│   ├── 02\_Data\_Cleaning.ipynb
-│   ├── 03\_Data\_Validation.ipynb
-│   └── 04\_Data\_Analysis.ipynb
+│              ├── 1- Import csv
+│              ├── 2- Explore input data
+│              └──
+│   ├── 02\_Data\_Validation.ipynb
+│   └── 03\_Data\_Analysis.ipynb
 │
 ├── images/
 ├── README.md
 └── Project\_Document.xlsx
 ```
-[click here to run notebook01](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
-
-
 Status
 
 This project is currently under development and will be expanded with additional notebooks, ETL workflows, SQL analysis, dashboards, and predictive analytics.
@@ -75,10 +75,10 @@ This project is currently under development and will be expanded with additional
 ```
 
 Sprint 1 (Jul 21 - Aug 01)
-✔ Data Exploration Jupyter Notebook completion
+✔ Data Exploration Jupyter Notebook - complete data exploration section
 
 Sprint 2 (Aug 02 - Aug 08)
-✔ Data Cleaning Jupyter Notebook, clean data retail\_sales\_cleaned.csv completion
+✔ Data Exploration Jupyter Notebook - complete data cleaning and transformation section
 
 Sprint 3 (Aug 08 - Aug 15)
 Data Analysis Jupyter Notebook completion
