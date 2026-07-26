@@ -1,0 +1,858 @@
+order_id,date,region,product,salesperson,channel,quantity,price,sales,cost,notes
+10000,2024-11-23,South,Widget E,Grace,Online,8,48.53,388.24,298.26,ok
+10001,2024-12-25,East,Widget C,Eva,Online,19,59.25,1125.75,939.61,ok
+10002,2024-11-05,South,Widget E,David,Wholesale,15,109.56,1643.4,1456.97,ok
+10003,2024-02-21,South,Widget E,Carol,Wholesale,12,36.72,440.64,254.53,ok
+10004,2024-04-22,West,Widget E,Frank,Online,2,49.66,99.32,41.32,ok
+10005,2024-10-14,West,Widget A,Alice,Online,14,180.08,2521.12,1511.92,ok
+10006,2024-08-27,South,Widget A,Eva,Retail,1,137.66,137.66,62.95,ok
+10007,2024-04-01,East,Widget E,Alice,Wholesale,10,169.13,1691.3,1105.83,ok
+10008,2024-05-02,East,Widget B,Helen,Wholesale,3,21.7,65.1,41.86,ok
+10009,2024-12-19,South,Widget A,David,Wholesale,12,90.43,1085.16,714.89,ok
+10010,2024-06-18,West,Widget B,Helen,Retail,16,46.78,748.48,348.91,ok
+10011,2024-01-28,West,Widget B,Helen,Online,4,16.82,67.28,51.41,ok
+10012,2024-10-08,N/A,Widget D,Helen,Retail,18,168.03,3024.54,2675.2,ok
+10013,2024-08-20,North,Widget E,Alice,Wholesale,18,134.06,2413.08,1552.42,ok
+10014,2024-09-17,West,Widget E,Alice,Wholesale,20,18.25,365.0,303.28,ok
+10015,2024-06-09,South,Widget A,David,Wholesale,10,94.16,941.6,814.02,ok
+10016,2024-08-12,North,widget a,Bob,Online,20,196.85,3937.0,3163.58,ok
+10017,2024-06-24,East, Widget B ,Eva,Online,9,103.55,931.95,489.8,ok
+10019,2024-07-02,East,Widget B,Carol,Online,4,73.97,295.88,201.18,ok
+10020,2024-05-07,West,Widget C,Eva,Online,4,79.6,318.4,133.52,ok
+10021,2024-05-22,North,Widget A,Bob,Wholesale,18,69.57,1252.26,518.19,ok
+10022,2024-10-22,West,Widget C,Grace,Online,14,5.33,74.62,64.38,ok
+10023,2024-09-16,East,widget a,Carol,Wholesale,13,140.96,1832.48,,ok
+10024,2024-10-23,East,widget a,Bob,Retail,15,91.22,1368.3,693.52,ok
+10025,2024-06-07,West,Widget D,David,Wholesale,1,14.01,14.01,12.5,ok
+10026,2024-02-24,East, Widget B ,Helen,Wholesale,17,95.59,1625.03,1102.91,ok
+10027,2024-09-15,West, Widget B ,Eva,Wholesale,15,179.96,2699.4,2083.47,ok
+10028,2024-06-12,East,Widget C,Helen,Retail,5,50.1,250.5,187.12,ok
+10030,2024-08-27,East,Widget B,Helen,Online,18,10.26,184.68,110.26,ok
+10031,2024-05-22,N/A,Widget B,Bob,Wholesale,9,167.81,1510.29,959.27,ok
+10032,2024-03-05,South, Widget B ,Carol,Retail,7,95.68,669.76,353.71,ok
+10033,2024-04-11,South, Widget B ,Alice,Retail,8,24.87,198.96,156.43,ok
+10034,2024-09-07,North,Widget E,Helen,Retail,15,142.93,2143.95,1324.41,ok
+10035,2024-05-22,South,Widget B,Helen,Online,15,116.12,1741.8,1278.65,ok
+10036,2024-01-06,West,Widget D,Alice,Online,8,145.41,1163.28,749.49,ok
+10037,2024-09-28,South,widget a,David,Retail,18,69.5,1251.0,940.04,ok
+10038,2024-05-21,South,Widget B,Eva,Online,17,121.37,2063.29,1836.85,ok
+10039,2024-03-05,East,Widget A,Eva,Retail,4,175.18,700.72,481.42,ok
+10040,2024-03-17,West, Widget B ,Grace,Retail,3,198.81,596.43,273.9,ok
+10041,2024-02-20,East,Widget A,Grace,Retail,7,56.61,396.27,174.59,ok
+10042,2024-08-20,East,Widget A,David,Wholesale,9,158.63,1427.67,1017.26,ok
+10043,2024-10-18,N/A,Widget D,Bob,Wholesale,15,139.29,2089.35,1566.73,ok
+10044,2024-12-11,East,Widget D,Helen,Retail,1,199.92,199.92,147.17,ok
+10045,2024-07-28,North,Widget D,Bob,Retail,6,69.31,415.86,310.58,ok
+10046,2024-12-02,North,Widget B,Eva,Wholesale,2,41.58,83.16,48.31,ok
+10047,2024-11-07,South,Widget D,Bob,Wholesale,10,112.41,1124.1,760.03,ok
+10048,2024-08-29,South,Widget C,Grace,Retail,13,42.17,548.21,383.58,ok
+10049,2024-12-03,South, Widget B ,David,Wholesale,18,99.45,1790.1,1013.59,ok
+10050,2024-12-27,South, Widget B ,Helen,Online,5,101.59,507.95,212.58,ok
+10051,2024-02-08,East,Widget C,Helen,Wholesale,11,126.54,1391.94,833.41,ok
+10052,2024-02-16,North,Widget C,Frank,Retail,4,91.52,366.08,273.46,ok
+10053,2024-02-10,West,Widget C,Alice,Retail,8,102.05,816.4,564.6,ok
+10054,2024-11-23,West,Widget D,Frank,Wholesale,15,169.83,2547.45,1272.73,ok
+10055,2024-10-16,West,Widget E,Frank,Online,2,182.57,365.14,282.1,ok
+10056,2024-03-11,South,Widget C,Frank,Wholesale,2,65.24,130.48,80.95,ok
+10057,2024-05-19,West,Widget A,Carol,Online,16,193.64,3098.24,1696.51,ok
+10058,2024-07-21,South,Widget A,David,Retail,15,76.87,1153.05,893.04,ok
+10059,2024-11-21,West,Widget A,Bob,Online,10,131.6,1316.0,603.17,ok
+10060,2024-08-02,North,Widget A,Frank,Online,14,132.71,1857.94,1517.65,ok
+10061,2024-11-26,West,widget a,Alice,Online,7,193.8,1356.6,1186.35,ok
+10062,2024-04-16,East,Widget B,Eva,Online,8,69.07,552.56,,ok
+10063,2024-06-14,South,Widget E,Bob,Retail,5,149.64,748.2,496.09,ok
+10064,2024-06-03,West,Widget A,Bob,Retail,2,199.72,399.44,329.0,ok
+10065,2024-07-14,West,Widget D,Helen,Online,15,103.58,1553.7,955.68,ok
+10066,2024-12-06,South, Widget B ,Carol,Wholesale,16,18.09,289.44,236.15,ok
+10067,2024-12-06,West,Widget B,Helen,Online,2,193.84,387.68,271.46,ok
+10068,2024-08-07,North,Widget A,Carol,Retail,20,124.65,2493.0,1798.32,ok
+10069,2024-12-02,East,Widget C,Eva,Wholesale,1,22.89,22.89,15.23,ok
+10070,2024-11-12,South,Widget C,Grace,Online,15,134.08,2011.2,1292.86,ok
+10071,2024-11-02,West,widget a,Grace,Online,7,154.63,1082.41,846.53,ok
+10072,2024-02-06,East,widget a,Grace,Retail,14,8.65,121.1,104.22,ok
+10073,2024-12-19,North,widget a,Frank,Online,4,52.45,209.8,145.69,ok
+10074,2024-06-27,South,Widget B,Helen,Retail,5,51.07,255.35,120.84,ok
+10075,2024-11-15,North,Widget E,Alice,Retail,11,34.44,378.84,164.47,ok
+10076,2024-11-26,North,Widget D,David,Retail,20,120.85,2417.0,1431.45,ok
+10077,2024-06-24,East,Widget C,Frank,Retail,6,12.63,75.78,57.12,ok
+10078,2024-02-03,East,Widget C,Bob,Wholesale,13,60.41,785.33,598.32,ok
+10079,2024-10-31,South,widget a,Grace,Wholesale,18,78.45,1412.1,1123.79,ok
+10080,2024-04-08,North,widget a,Frank,Wholesale,3,62.68,188.04,149.32,ok
+10081,2024-03-25,West,Widget B,David,Retail,12,136.89,1642.68,852.17,ok
+10082,2024-05-24,North,Widget A,Helen,Retail,14,193.42,2707.88,2189.17,ok
+10083,2024-03-23,South,Widget A,Grace,Online,5,167.05,835.25,372.4,ok
+10084,2024-02-20,East, Widget B ,Helen,Retail,5,31.83,159.15,86.49,ok
+10085,2024-11-07,West,Widget A,Bob,Retail,10,51.34,513.4,236.64,ok
+10086,2024-01-01,North,Widget D,Helen,Online,14,41.53,581.42,426.82,ok
+10087,2024-05-03,East, Widget B ,Helen,Wholesale,19,148.36,2818.84,1596.19,ok
+10088,2024-05-30,West,Widget C,Alice,Wholesale,2,66.54,133.08,73.86,ok
+10089,2024-07-07,West,Widget C,Eva,Online,15,179.45,2691.75,1597.08,ok
+10090,2024-02-22,West,Widget A,Frank,Wholesale,10,91.95,919.5,697.75,ok
+10091,2024-07-05,North,Widget B,Bob,Online,6,190.79,1144.74,539.62,ok
+10092,2024-08-18,West,Widget A,Alice,Wholesale,3,116.91,350.73,233.14,ok
+10093,2024-08-16,West,Widget A,Frank,Wholesale,16,44.03,704.48,329.6,ok
+10094,2024-12-29,West,Widget A,Frank,Wholesale,12,104.21,1250.52,576.09,ok
+10095,2024-06-07,South,widget a,Bob,Retail,16,107.51,1720.16,1349.61,ok
+10096,2024-04-03,East,Widget B,Frank,Wholesale,17,182.59,3104.03,1327.61,ok
+10097,2024-11-21,East,Widget B,Frank,Wholesale,10,124.81,1248.1,557.54,ok
+10098,2024-11-29,North,Widget D,David,Wholesale,20,129.6,2592.0,1682.26,ok
+10099,2024-04-14,South,Widget E,Bob,Retail,11,148.17,1629.87,1353.43,ok
+10100,2024-07-15,East,Widget D,Helen,Retail,6,163.63,981.78,851.08,ok
+10101,2024-10-25,North, Widget B ,Bob,Retail,16,121.52,1944.32,1597.11,ok
+10102,2024-10-18,South,Widget B,Bob,Retail,10,19.34,193.4,126.12,ok
+10103,2024-09-17,East,Widget C,Frank,Online,2,31.72,63.44,35.94,ok
+10104,2024-09-29,North, Widget B ,Alice,Wholesale,16,164.07,2625.12,1533.54,ok
+10105,2024-01-27,South,Widget B,Alice,Retail,20,156.05,3121.0,1841.69,ok
+10106,2024-08-29,West,Widget E,Grace,Retail,2,142.63,285.26,188.08,ok
+10107,2024-12-14,North, Widget B ,Eva,Wholesale,20,99.42,1988.4,1747.14,ok
+10108,2024-05-20,East,Widget C,Alice,Retail,18,79.04,1422.72,1266.33,ok
+10109,2024-10-02,West,widget a,David,Online,9,31.77,285.93,202.39,ok
+10110,2024-10-08,North, Widget B ,Bob,Wholesale,16,98.1,1569.6,784.37,ok
+10111,2024-08-01,North,Widget A,Alice,Retail,2,199.45,398.9,238.74,ok
+10112,2024-09-25,West,widget a,Eva,Wholesale,17,96.26,1636.42,812.33,ok
+10113,2024-11-08,East,Widget D,Frank,Online,14,105.48,1476.72,654.73,ok
+10114,2024-10-20,North,widget a,Bob,Wholesale,8,17.11,136.88,62.84,ok
+10115,2024-11-06,South,Widget E,Helen,Wholesale,16,152.68,2442.88,1956.74,ok
+10116,2024-04-13,West,Widget A,Helen,Online,11,171.62,1887.82,1172.19,ok
+10117,2024-06-06,South,Widget E,Alice,Online,1,150.43,150.43,103.67,ok
+10118,2024-11-26,East,widget a,Frank,Online,13,92.46,1201.98,1031.97,ok
+10119,2024-01-12,East,Widget C,David,Wholesale,18,87.7,1578.6,930.8,ok
+10120,2024-01-09,North,Widget D,Helen,Online,20,11.55,231.0,161.44,ok
+10121,2024-10-21,East,Widget C,Eva,Online,11,51.2,563.2,472.03,ok
+10122,2024-09-10,East,Widget B,Helen,Online,13,158.23,2056.99,1150.61,ok
+10123,2024-08-01,South,Widget A,David,Online,8,54.72,437.76,247.39,ok
+10124,2024-10-27,West,Widget B,Bob,Wholesale,16,45.73,731.68,624.5,ok
+10125,2024-10-09,West,Widget D,Bob,Wholesale,15,109.06,1635.9,948.22,ok
+10126,2024-04-23,South,Widget B,Grace,Wholesale,18,187.28,3371.04,2324.57,ok
+10127,2024-11-24,North,Widget E,Alice,Online,12,38.01,456.12,346.72,ok
+10128,2024-03-18,West,Widget A,Alice,Wholesale,12,16.79,201.48,144.84,ok
+10129,2024-09-14,North, Widget B ,Frank,Retail,6,25.87,155.22,69.56,ok
+10130,2024-06-02,North,widget a,Carol,Online,2,23.23,46.46,27.39,ok
+10131,2024-09-27,North,Widget B,Frank,Online,19,97.72,1856.68,785.9,ok
+10132,2024-03-24,South,Widget E,Frank,Online,13,137.02,1781.26,1193.95,ok
+10133,2024-07-22,East,Widget D,Carol,Wholesale,9,157.79,1420.11,887.96,ok
+10134,2024-02-12,North,Widget D,Frank,Retail,5,149.23,746.15,416.6,ok
+10135,2024-01-14,East, Widget B ,Bob,Wholesale,20,121.62,2432.4,1367.53,ok
+10136,2024-03-12,South,Widget C,Eva,Online,5,17.34,86.7,53.52,ok
+10137,2024-07-21,East,Widget C,Frank,Wholesale,11,90.84,999.24,614.84,ok
+10138,2024-12-21,West,Widget E,Carol,Wholesale,8,68.55,548.4,296.22,ok
+10139,2024-05-29,East,widget a,Grace,Retail,14,136.23,1907.22,895.61,ok
+10140,2024-12-20,South, Widget B ,David,Wholesale,12,141.82,1701.84,1371.94,ok
+10141,2024-07-23,West,Widget D,Frank,Retail,14,25.66,359.24,161.41,ok
+10142,2024-02-23,West, Widget B ,David,Wholesale,3,27.63,82.89,72.14,ok
+10143,2024-01-23,West,Widget E,Carol,Wholesale,11,131.35,1444.85,1067.12,ok
+10144,2024-04-05,North,widget a,David,Online,1,148.79,148.79,125.21,ok
+10145,2024-04-05,East,Widget E,Grace,Wholesale,4,56.16,224.64,186.75,ok
+10146,2024-06-01,East,Widget E,Grace,Retail,5,66.07,330.35,171.55,ok
+10147,2024-11-26,North, Widget B ,Frank,Online,6,100.48,602.88,283.44,ok
+10148,2024-12-16,North,Widget A,Eva,Online,15,100.3,1504.5,663.99,ok
+10149,2024-09-18,West,Widget E,David,Retail,18,165.54,2979.72,1738.46,ok
+10150,2024-05-14,South, Widget B ,Grace,Online,15,173.73,2605.95,1195.33,ok
+10151,2024-05-23,South,Widget B,Grace,Online,10,61.42,614.2,327.78,ok
+10152,2024-05-06,South,widget a,Bob,Retail,16,32.72,523.52,374.95,ok
+10153,2024-10-24,South, Widget B ,Grace,Online,3,147.53,442.59,278.49,ok
+10154,2024-03-07,West,Widget A,Bob,Online,11,179.36,1972.96,1541.13,ok
+10155,2024-11-28,East,Widget A,Grace,Wholesale,9,23.2,208.8,121.15,ok
+10156,2024-04-19,South, Widget B ,Grace,Wholesale,8,106.29,850.32,529.35,ok
+10157,2024-07-07,East,Widget D,Frank,Wholesale,5,130.11,650.55,480.48,ok
+10158,2024-02-14,East,Widget B,Eva,Wholesale,4,119.97,479.88,284.1,ok
+10159,2024-01-14,North, Widget B ,David,Retail,10,45.06,450.6,316.98,ok
+10160,2024-07-03,South,Widget A,Bob,Online,19,87.07,1654.33,1113.66,ok
+10161,2024-12-30,North,Widget A,David,Online,13,21.07,273.91,183.05,ok
+10162,2024-06-07,North,Widget C,Carol,Online,8,16.29,130.32,57.75,ok
+10163,2024-05-12,East,Widget C,Bob,Retail,9,147.92,1331.28,611.1,ok
+10164,2024-10-17,North,Widget A,Alice,Online,4,179.38,717.52,528.86,ok
+10165,2024-10-10,South,Widget E,Frank,Online,14,48.78,682.92,357.94,ok
+10166,2024-07-24,South,Widget B,Eva,Wholesale,10,155.84,1558.4,865.46,ok
+10167,2024-04-10,North,Widget C,Alice,Wholesale,8,34.36,274.88,238.1,ok
+10168,2024-09-08,East,widget a,Frank,Retail,5,143.77,718.85,320.98,ok
+10169,2024-10-17,South,Widget C,Helen,Retail,5,51.17,255.85,135.73,ok
+10170,2024-03-25,North, Widget B ,Bob,Online,4,109.51,438.04,386.49,ok
+10171,2024-06-16,East,Widget A,Grace,Retail,12,82.27,987.24,419.06,ok
+10172,2024-01-07,South,Widget E,Eva,Online,8,30.49,243.92,198.02,ok
+10173,2024-06-18,North,Widget D,Grace,Online,2,37.76,75.52,51.88,ok
+10174,2024-11-13,N/A,Widget D,David,Wholesale,16,85.34,1365.44,922.14,ok
+10175,2024-07-02,South,Widget E,David,Online,12,182.97,2195.64,1429.79,ok
+10176,2024-04-29,West,Widget E,Grace,Retail,8,56.97,455.76,368.32,ok
+10177,2024-01-15,N/A,Widget E,Eva,Online,19,114.9,2183.1,1487.9,ok
+10178,2024-06-18,North,Widget A,Carol,Wholesale,5,71.45,357.25,174.6,ok
+10179,2024-07-10,East, Widget B ,Helen,Wholesale,19,24.7,469.3,258.53,ok
+10180,2024-04-24,East, Widget B ,Alice,Online,13,64.83,842.79,627.25,ok
+10181,2024-09-11,South,Widget D,Alice,Retail,8,72.63,581.04,325.24,ok
+10182,2024-07-16,South, Widget B ,Helen,Wholesale,6,177.49,1064.94,688.53,ok
+10183,2024-01-11,South,Widget C,Helen,Wholesale,3,71.65,214.95,181.41,ok
+10184,2024-06-18,N/A,Widget A,Alice,Retail,18,145.8,2624.4,2007.63,ok
+10185,2024-12-04,South,Widget C,Grace,Retail,4,10.02,40.08,19.46,ok
+10186,2024-07-14,East, Widget B ,Bob,Online,9,90.75,816.75,434.27,ok
+10187,2024-07-17,North,Widget A,Grace,Wholesale,18,138.98,2501.64,2171.88,ok
+10188,2024-03-02,East,Widget B,Carol,Wholesale,6,194.57,1167.42,938.87,ok
+10189,2024-10-09,East,Widget A,Grace,Online,15,183.85,2757.75,1120.15,ok
+10190,2024-02-21,West,Widget A,Carol,Retail,12,176.19,2114.28,1124.94,ok
+10191,2024-06-18,North,Widget C,Eva,Retail,16,184.56,2952.96,2505.63,ok
+10192,2024-06-13,South, Widget B ,Alice,Wholesale,3,41.65,124.95,63.19,ok
+10193,2024-10-18,West,Widget C,Frank,Retail,7,168.21,1177.47,617.87,ok
+10194,2024-08-16,South,Widget C,Alice,Retail,19,112.51,2137.69,1223.02,ok
+10195,2024-12-12,East,widget a,Carol,Wholesale,17,8.91,151.47,119.68,ok
+10196,2024-05-20,East,Widget E,Bob,Online,12,94.5,1134.0,577.32,ok
+10197,2024-05-24,North,Widget B,Carol,Wholesale,3,70.58,211.74,113.97,ok
+10198,2024-06-12,North,Widget E,David,Retail,16,199.51,3192.16,1690.93,ok
+10199,2024-07-02,East,widget a,Frank,Wholesale,18,40.32,725.76,325.72,ok
+10200,2024-07-09,South,Widget D,David,Wholesale,4,96.75,387.0,322.45,ok
+10201,2024-03-11,N/A, Widget B ,Bob,Retail,19,179.1,3402.9,3039.89,ok
+10202,2024-03-27,West,Widget D,Alice,Online,3,30.23,90.69,,ok
+10204,2024-12-17,East,Widget A,David,Online,16,75.05,1200.8,,ok
+10205,2024-12-30,South,widget a,Alice,Online,9,155.39,1398.51,995.13,ok
+10206,2024-04-15,East,Widget D,Bob,Wholesale,10,87.07,870.7,392.24,ok
+10207,2024-05-14,West,widget a,Helen,Retail,12,142.17,1706.04,934.36,ok
+10208,2024-03-17,North,Widget C,Helen,Online,3,146.09,438.27,197.5,ok
+10209,2024-08-06,West,Widget E,Eva,Wholesale,2,6.89,13.78,6.47,ok
+10210,2024-07-16,North, Widget B ,Carol,Online,14,131.53,1841.42,1470.29,ok
+10211,2024-07-02,South,Widget C,Frank,Online,5,99.2,496.0,319.45,ok
+10212,2024-12-08,East,Widget B,Alice,Online,20,23.57,471.4,344.53,ok
+10213,2024-09-08,West,Widget A,Helen,Retail,9,14.82,133.38,68.2,ok
+10214,2024-11-30,North,Widget E,David,Wholesale,2,113.64,227.28,90.93,ok
+10215,2024-06-18,West,Widget A,Frank,Retail,16,144.75,2316.0,1347.1,ok
+10216,2024-03-25,East,Widget B,Helen,Online,14,25.86,362.04,255.39,ok
+10217,2024-03-04,North,Widget E,Grace,Wholesale,19,191.46,3637.74,1699.98,ok
+10218,2024-03-06,West,Widget C,Grace,Retail,20,177.13,3542.6,2309.97,ok
+10219,2024-06-02,North,widget a,Frank,Wholesale,11,143.82,1582.02,1372.81,ok
+10220,2024-06-14,North, Widget B ,Grace,Online,18,98.67,1776.06,1217.17,ok
+10221,2024-03-23,North,Widget C,Helen,Online,5,168.68,843.4,628.58,ok
+10222,2024-05-01,South,Widget E,Alice,Online,10,140.12,1401.2,593.39,ok
+10223,2024-11-20,North,Widget D,Carol,Wholesale,19,111.59,2120.21,1487.74,ok
+10224,2024-10-11,South,Widget E,Alice,Wholesale,9,6.1,54.9,34.76,ok
+10225,2024-12-28,East,Widget A,Frank,Online,6,106.52,639.12,506.9,ok
+10226,2024-08-31,West,Widget A,Frank,Retail,1,27.37,27.37,15.68,ok
+10227,2024-07-10,South,Widget B,Alice,Wholesale,16,13.55,216.8,184.09,ok
+10228,2024-04-15,West,widget a,Frank,Online,14,131.08,1835.12,1596.33,ok
+10229,2024-05-12,South, Widget B ,Alice,Wholesale,13,89.44,1162.72,474.91,ok
+10230,2024-05-24,East, Widget B ,Eva,Wholesale,13,165.31,2149.03,892.73,ok
+10231,2024-01-06,South,Widget C,David,Wholesale,4,13.15,52.6,36.1,ok
+10232,2024-03-23,West,widget a,Bob,Retail,9,42.89,386.01,189.41,ok
+10233,2024-03-06,N/A,widget a,Carol,Wholesale,10,125.81,1258.1,1069.46,ok
+10234,2024-04-23,West,Widget D,Frank,Retail,9,168.82,1519.38,709.78,ok
+10235,2024-03-12,East, Widget B ,David,Online,3,146.85,440.55,372.73,ok
+10236,2024-07-19,North,widget a,David,Wholesale,10,31.11,311.1,202.39,ok
+10237,2024-12-03,North,Widget C,David,Online,16,188.14,3010.24,1264.93,ok
+10238,2024-01-24,North,Widget E,Carol,Retail,4,142.23,568.92,375.88,ok
+10239,2024-04-24,East,Widget D,Carol,Online,12,99.94,1199.28,768.8,ok
+10240,2024-03-01,East,widget a,Grace,Online,11,145.45,1599.95,1025.18,ok
+10241,2024-10-20,North,Widget A,David,Retail,6,105.74,634.44,382.39,ok
+10242,2024-10-25,South,Widget B,Grace,Retail,17,56.58,961.86,733.03,ok
+10243,2024-03-17,South,Widget D,Carol,Wholesale,20,121.96,2439.2,2046.19,ok
+10244,2024-07-08,South,Widget D,Carol,Retail,14,49.75,696.5,558.0,ok
+10245,2024-05-11,South,Widget D,Frank,Online,1,117.71,117.71,54.02,ok
+10246,2024-11-09,West,Widget C,Eva,Wholesale,7,85.58,599.06,474.39,ok
+10247,2024-04-27,North,Widget B,Grace,Wholesale,6,24.55,147.3,96.36,ok
+10248,2024-05-14,North,widget a,Alice,Online,2,146.28,292.56,253.16,ok
+10249,2024-04-09,North,Widget B,Bob,Retail,17,141.2,2400.4,1698.51,ok
+10250,2024-12-26,North,Widget B,David,Retail,10,146.6,1466.0,996.23,ok
+10251,2024-05-30,West,Widget D,Helen,Online,17,191.56,3256.52,2729.15,ok
+10252,2024-09-03,North,widget a,Eva,Online,8,137.0,1096.0,564.4,ok
+10253,2024-08-31,West,widget a,David,Online,19,57.47,1091.93,953.87,ok
+10254,2024-07-01,North, Widget B ,Helen,Retail,3,136.78,410.34,300.25,ok
+10255,2024-04-03,East,Widget D,Alice,Wholesale,9,82.59,743.31,576.13,ok
+10257,2024-12-24,West, Widget B ,Bob,Wholesale,13,59.53,773.89,379.16,ok
+10259,2024-05-10,North,Widget C,Alice,Retail,15,150.2,2253.0,1193.83,ok
+10260,2024-10-02,South,Widget D,Eva,Retail,12,68.39,820.68,537.73,ok
+10261,2024-11-09,North,Widget E,Grace,Retail,3,20.43,61.29,35.05,ok
+10262,2024-03-26,East,Widget D,Bob,Online,8,134.09,1072.72,933.5,ok
+10263,2024-02-12,North,Widget D,Carol,Online,3,132.69,398.07,335.47,ok
+10264,2024-08-31,West,widget a,Grace,Wholesale,9,111.97,1007.73,471.17,ok
+10265,2024-08-14,South,Widget C,Helen,Wholesale,5,64.2,321.0,128.41,ok
+10266,2024-05-29,East,widget a,Grace,Retail,18,77.86,1401.48,849.11,ok
+10267,2024-12-21,N/A,Widget A,Helen,Wholesale,18,162.72,2928.96,1776.27,ok
+10268,2024-09-30,East,Widget A,Helen,Online,10,57.49,574.9,435.54,ok
+10269,2024-01-17,West, Widget B ,Eva,Retail,5,15.93,79.65,62.75,ok
+10270,2024-01-18,North,Widget C,Carol,Wholesale,4,106.62,426.48,380.02,ok
+10271,2024-04-11,North,Widget E,Bob,Retail,7,194.79,1363.53,706.29,ok
+10272,2024-07-09,North,Widget A,Frank,Wholesale,16,22.82,365.12,258.99,ok
+10273,2024-11-26,North,Widget A,Helen,Wholesale,15,147.97,2219.55,911.52,ok
+10274,2024-06-14,North, Widget B ,Eva,Wholesale,20,183.32,3666.4,2483.11,ok
+10275,2024-11-13,West,Widget E,Helen,Wholesale,8,67.54,540.32,233.24,ok
+10276,2024-02-04,East,widget a,Helen,Wholesale,6,175.33,1051.98,527.08,ok
+10277,2024-04-16,East, Widget B ,Frank,Wholesale,3,96.27,288.81,207.79,ok
+10278,2024-04-20,East,Widget E,Grace,Wholesale,8,108.67,869.36,430.1,ok
+10279,2024-02-23,South,Widget C,Frank,Retail,13,103.42,1344.46,979.8,ok
+10280,2024-04-19,North,Widget C,Alice,Wholesale,9,75.2,676.8,423.81,ok
+10281,2024-01-12,South,Widget A,Helen,Retail,9,184.23,1658.07,1087.09,ok
+10282,2024-02-17,South,Widget E,Eva,Online,7,148.18,1037.26,790.17,ok
+10283,2024-08-10,East,Widget A,Eva,Wholesale,8,150.8,1206.4,994.97,ok
+10284,2024-12-10,East,Widget B,Carol,Retail,15,151.8,2277.0,1565.73,ok
+10285,2024-08-10,West,Widget B,Bob,Retail,5,98.78,493.9,246.48,ok
+10286,2024-07-06,West,Widget E,Carol,Retail,20,132.8,2656.0,2084.54,ok
+10287,2024-02-13,South,Widget C,Helen,Retail,20,185.71,3714.2,3099.04,ok
+10288,2024-10-07,North,Widget C,Carol,Online,5,140.54,702.7,515.87,ok
+10289,2024-02-04,West,Widget D,Bob,Retail,12,173.54,2082.48,852.86,ok
+10290,2024-12-30,South,Widget C,Eva,Online,17,64.46,1095.82,706.77,ok
+10291,2024-01-16,East,Widget E,David,Retail,8,34.58,276.64,234.75,ok
+10292,2024-03-08,East,Widget D,Carol,Wholesale,18,138.39,2491.02,1248.39,ok
+10293,2024-06-11,West,widget a,Eva,Online,1,154.26,154.26,,ok
+10294,2024-11-06,East,Widget E,Helen,Wholesale,8,50.03,400.24,165.32,ok
+10295,2024-01-17,West,Widget A,Carol,Retail,9,190.29,1712.61,875.62,ok
+10296,2024-01-22,North,Widget E,Bob,Retail,11,81.86,900.46,783.01,ok
+10297,2024-01-21,North,Widget D,Carol,Retail,2,42.02,84.04,52.09,ok
+10298,2024-08-19,East,Widget C,Helen,Online,6,156.85,941.1,817.74,ok
+10299,2024-06-14,South,Widget A,Grace,Wholesale,6,145.08,870.48,401.96,ok
+10300,2024-06-20,N/A,Widget C,Helen,Retail,5,36.61,183.05,86.46,ok
+10301,2024-01-07,West,Widget D,Grace,Retail,18,162.45,2924.1,2058.54,ok
+10302,2024-04-16,North,Widget C,Bob,Online,12,12.16,145.92,120.66,ok
+10303,2024-10-31,South,Widget C,Grace,Online,15,151.12,2266.8,1314.96,ok
+10304,2024-05-20,South,Widget D,Eva,Retail,7,140.69,984.83,695.32,ok
+10305,2024-11-10,West,Widget A,Bob,Online,16,101.04,1616.64,792.08,ok
+10306,2024-07-30,North,Widget C,Frank,Online,7,7.2,50.4,25.23,ok
+10307,2024-03-30,West, Widget B ,Frank,Retail,16,183.65,2938.4,2346.69,ok
+10308,2024-10-11,North, Widget B ,Alice,Retail,11,160.91,1770.01,1493.91,ok
+10309,2024-06-06,North,Widget B,Eva,Online,2,57.94,115.88,51.38,ok
+10310,2024-09-04,East, Widget B ,Bob,Wholesale,11,185.11,2036.21,1560.19,ok
+10311,2024-02-29,North,Widget A,Eva,Wholesale,20,175.02,3500.4,1983.48,ok
+10312,2024-03-01,South,Widget E,Frank,Retail,4,7.98,31.92,22.71,ok
+10313,2024-06-22,East,Widget D,Carol,Wholesale,1,96.79,96.79,71.41,ok
+10314,2024-06-19,South, Widget B ,Helen,Online,18,20.32,365.76,315.06,ok
+10315,2024-03-14,South,Widget D,Helen,Online,12,81.45,977.4,732.86,ok
+10316,2024-11-05,North,Widget E,Helen,Retail,13,164.42,2137.46,1706.5,ok
+10317,2024-06-23,West,Widget B,Bob,Wholesale,14,157.94,2211.16,1365.78,ok
+10318,2024-08-15,South,Widget D,Alice,Online,3,121.66,364.98,271.09,ok
+10319,2024-03-16,N/A,Widget C,Eva,Retail,10,81.05,810.5,558.41,ok
+10320,2024-07-25,South,Widget A,Eva,Online,2,77.0,154.0,103.86,ok
+10321,2024-08-10,East,Widget B,Eva,Wholesale,16,32.12,513.92,,ok
+10322,2024-08-11,East,Widget E,Carol,Retail,5,130.24,651.2,395.88,ok
+10323,2024-01-04,North,Widget A,Helen,Wholesale,8,143.87,1150.96,615.33,ok
+10324,2024-05-23,South,widget a,Eva,Wholesale,20,22.25,445.0,,ok
+10325,2024-10-20,North,Widget A,Helen,Wholesale,10,61.4,614.0,256.45,ok
+10326,2024-09-05,South,Widget E,Carol,Wholesale,9,54.15,487.35,344.99,ok
+10327,2024-09-05,East, Widget B ,Helen,Retail,2,71.86,143.72,63.55,ok
+10328,2024-06-25,West,Widget D,Grace,Retail,4,15.24,60.96,,ok
+10329,2024-12-13,North,Widget C,Eva,Retail,2,23.99,47.98,31.94,ok
+10330,2024-12-10,North, Widget B ,Bob,Online,11,137.16,1508.76,1352.77,ok
+10331,2024-04-08,South,widget a,Bob,Online,2,188.01,376.02,273.86,ok
+10332,2024-02-26,East,widget a,Frank,Retail,15,133.79,2006.85,878.71,ok
+10333,2024-05-12,West,Widget A,Carol,Wholesale,15,18.53,277.95,247.3,ok
+10334,2024-01-18,North,Widget A,Grace,Retail,9,156.56,1409.04,576.84,ok
+10335,2024-09-08,West,Widget A,Frank,Retail,3,110.33,330.99,132.94,ok
+10336,2024-06-23,West,Widget C,Grace,Online,10,131.32,1313.2,641.25,ok
+10337,2024-01-19,West,Widget E,Helen,Online,19,51.5,978.5,581.6,ok
+10338,2024-11-30,East,Widget D,Alice,Retail,18,34.05,612.9,422.7,ok
+10339,2024-06-06,West,Widget E,David,Online,20,38.28,765.6,532.49,ok
+10340,2024-12-16,East, Widget B ,Grace,Online,7,154.02,1078.14,750.97,ok
+10341,2024-11-19,North,Widget D,Helen,Wholesale,1,176.53,176.53,77.74,ok
+10342,2024-11-08,East,Widget A,David,Online,16,124.35,1989.6,883.4,ok
+10343,2024-09-16,West,Widget D,Carol,Online,7,58.9,412.3,204.86,ok
+10344,2024-11-11,North,Widget D,Bob,Online,2,25.36,50.72,21.62,ok
+10345,2024-06-15,West,Widget A,Helen,Wholesale,8,24.12,192.96,148.36,ok
+10346,2024-07-10,North,Widget C,Carol,Online,12,195.23,2342.76,1173.97,ok
+10347,2024-11-22,West, Widget B ,David,Wholesale,19,194.18,3689.42,3053.0,ok
+10348,2024-06-16,North,Widget A,Helen,Wholesale,19,189.52,3600.88,3085.51,ok
+10349,2024-02-20,South,Widget C,David,Wholesale,18,151.85,2733.3,2040.63,ok
+10350,2024-10-25,West,widget a,Alice,Wholesale,5,175.47,877.35,528.76,ok
+10351,2024-12-23,North,Widget E,Frank,Online,7,158.6,1110.2,489.02,ok
+10352,2024-12-26,West, Widget B ,David,Retail,7,31.99,223.93,127.07,ok
+10353,2024-08-19,West,Widget E,Frank,Wholesale,4,96.68,386.72,257.54,ok
+10354,2024-02-11,West,Widget E,Alice,Retail,3,26.33,78.99,42.49,ok
+10355,2024-11-26,East,Widget E,Frank,Wholesale,1,175.0,175.0,90.33,ok
+10356,2024-08-22,North,Widget B,Frank,Retail,10,38.49,384.9,204.0,ok
+10357,2024-03-30,West,Widget C,Frank,Online,5,36.44,182.2,83.53,ok
+10358,2024-10-03,West,Widget C,Carol,Online,4,184.48,737.92,444.44,ok
+10359,2024-10-20,South,Widget C,Alice,Retail,15,71.04,1065.6,486.08,ok
+10360,2024-10-25,South,Widget E,Grace,Online,9,43.16,388.44,171.61,ok
+10361,2024-03-16,South,Widget B,Helen,Wholesale,13,77.7,1010.1,547.8,ok
+10362,2024-07-31,South,Widget A,Grace,Online,3,33.01,99.03,54.63,ok
+10363,2024-03-11,North,Widget D,Helen,Online,10,113.0,1130.0,475.86,ok
+10364,2024-03-04,North,Widget D,Bob,Wholesale,14,39.98,559.72,477.66,ok
+10365,2024-12-21,West,widget a,Carol,Retail,19,8.42,159.98,84.75,ok
+10366,2024-05-29,East,Widget E,Frank,Retail,17,42.79,727.43,519.4,ok
+10367,2024-06-29,East,Widget A,David,Online,17,59.88,1017.96,803.58,ok
+10368,2024-09-26,North,Widget D,Frank,Retail,4,86.38,345.52,296.46,ok
+10369,2024-06-24,East,Widget B,Carol,Online,4,48.36,193.44,160.25,ok
+10370,2024-01-22,North,widget a,Alice,Online,17,120.67,2051.39,1301.69,ok
+10371,2024-02-16,West,Widget E,Bob,Online,9,190.01,1710.09,981.45,ok
+10372,2024-10-02,East,Widget D,Bob,Online,7,184.49,1291.43,1066.27,ok
+10373,2024-06-09,South,Widget C,Helen,Online,5,101.68,508.4,295.19,ok
+10374,2024-10-10,South,Widget B,Alice,Wholesale,14,41.81,585.34,254.51,ok
+10375,2024-07-21,West,Widget C,David,Wholesale,4,149.58,598.32,506.31,ok
+10376,2024-10-24,North,Widget B,Helen,Online,13,74.44,967.72,709.67,ok
+10377,2024-01-28,South, Widget B ,Bob,Wholesale,1,194.55,194.55,115.04,ok
+10378,2024-09-15,South,Widget D,Helen,Retail,18,111.59,2008.62,1760.13,ok
+10379,2024-12-27,West,Widget D,Carol,Wholesale,10,144.57,1445.7,930.64,ok
+10380,2024-05-25,South,Widget D,Bob,Retail,2,30.0,60.0,34.99,ok
+10381,2024-06-08,North,Widget D,Grace,Wholesale,3,174.44,523.32,239.28,ok
+10382,2024-07-12,South,Widget B,Eva,Retail,4,162.62,650.48,292.73,ok
+10383,2024-04-19,South,Widget E,Frank,Retail,19,83.4,1584.6,812.81,ok
+10384,2024-06-03,East,Widget A,Carol,Wholesale,18,66.1,1189.8,722.4,ok
+10385,2024-09-29,West,Widget B,David,Online,14,187.25,2621.5,2001.01,ok
+10386,2024-02-02,East,Widget B,Bob,Online,9,165.62,1490.58,1077.72,ok
+10387,2024-08-04,East,widget a,Alice,Wholesale,6,58.18,349.08,144.72,ok
+10388,2024-02-02,East,Widget B,Bob,Wholesale,12,135.98,1631.76,1375.34,ok
+10389,2024-09-25,East, Widget B ,David,Retail,8,121.97,975.76,767.53,ok
+10390,2024-10-28,East,Widget C,Helen,Wholesale,4,66.72,266.88,163.3,ok
+10391,2024-12-05,South,Widget E,David,Retail,8,54.33,434.64,257.46,ok
+10392,2024-04-30,East, Widget B ,Alice,Retail,6,183.6,1101.6,788.39,ok
+10393,2024-08-04,South,Widget D,Alice,Online,6,141.2,847.2,553.36,ok
+10394,2024-11-17,East, Widget B ,Grace,Retail,4,35.78,143.12,94.2,ok
+10395,2024-05-24,North,Widget A,David,Online,6,81.73,490.38,288.67,ok
+10396,2024-05-13,West, Widget B ,Helen,Online,6,189.71,1138.26,522.09,ok
+10397,2024-09-10,East,Widget B,Grace,Online,7,122.02,854.14,766.68,ok
+10398,2024-12-16,East,widget a,Grace,Wholesale,16,30.97,495.52,278.3,ok
+10399,2024-06-30,East,Widget C,Grace,Wholesale,20,143.37,2867.4,2308.05,ok
+10400,2024-09-09,South,Widget A,Carol,Retail,5,22.48,112.4,84.88,ok
+10401,2024-05-15,West,Widget A,David,Online,6,66.53,399.18,358.18,ok
+10402,2024-09-10,South,Widget C,Bob,Online,18,99.61,1792.98,1159.15,ok
+10403,2024-10-26,West,widget a,Bob,Retail,1,107.57,107.57,73.73,ok
+10404,2024-02-24,North,Widget E,Alice,Retail,3,94.75,284.25,214.28,ok
+10405,2024-10-18,N/A,Widget A,Grace,Retail,10,68.02,680.2,290.97,ok
+10406,2024-07-17,North,widget a,Carol,Retail,5,28.52,142.6,92.04,ok
+10407,2024-05-17,North,Widget E,Frank,Retail,14,163.14,2283.96,1614.61,ok
+10408,2024-09-25,North, Widget B ,David,Wholesale,3,181.91,545.73,348.62,ok
+10409,2024-08-05,North,Widget A,Helen,Online,19,163.5,3106.5,1794.71,ok
+10410,2024-08-20,N/A,widget a,Eva,Wholesale,9,71.56,644.04,553.27,ok
+10411,2024-08-23,East, Widget B ,Eva,Online,20,146.55,2931.0,1616.15,ok
+10412,2024-01-14,North, Widget B ,Helen,Online,8,89.98,719.84,513.27,ok
+10413,2024-09-05,South,Widget A,Bob,Wholesale,19,52.31,993.89,544.07,ok
+10414,2024-05-28,West,Widget B,Alice,Wholesale,17,120.25,2044.25,1442.72,ok
+10415,2024-08-30,West,Widget C,Helen,Online,12,92.42,1109.04,685.51,ok
+10416,2024-12-02,West, Widget B ,Carol,Wholesale,13,192.16,2498.08,2039.78,ok
+10417,2024-11-06,North,Widget C,Carol,Online,16,64.21,1027.36,518.53,ok
+10418,2024-04-24,South,widget a,Alice,Retail,12,155.03,1860.36,1460.47,ok
+10419,2024-02-22,North,widget a,Helen,Wholesale,4,37.57,150.28,68.98,ok
+10420,2024-04-13,South,Widget C,Frank,Wholesale,1,52.84,52.84,42.51,ok
+10421,2024-04-26,North,Widget D,Carol,Online,14,180.12,2521.68,2208.79,ok
+10422,2024-03-25,North,Widget D,Grace,Wholesale,2,133.73,267.46,192.77,ok
+10423,2024-05-23,West,widget a,Frank,Wholesale,5,141.56,707.8,441.03,ok
+10424,2024-03-05,East,Widget A,Alice,Wholesale,7,23.1,161.7,109.29,ok
+10425,2024-01-31,North,Widget E,Alice,Retail,17,74.12,1260.04,534.09,ok
+10426,2024-11-17,East,widget a,Grace,Wholesale,8,73.32,586.56,318.07,ok
+10427,2024-02-20,West,Widget A,Frank,Wholesale,14,20.98,293.72,126.62,ok
+10428,2024-11-21,West,widget a,Helen,Online,16,147.68,2362.88,1437.72,ok
+10429,2024-03-21,N/A,Widget E,Carol,Online,4,122.31,489.24,295.65,ok
+10430,2024-10-28,South,Widget E,Frank,Online,10,178.37,1783.7,905.75,ok
+10431,2024-08-31,West,Widget B,Frank,Online,5,153.58,767.9,500.96,ok
+10432,2024-12-09,North,Widget E,Bob,Wholesale,3,173.86,521.58,393.06,ok
+10433,2024-09-24,West,Widget B,Helen,Online,1,28.46,28.46,24.71,ok
+10434,2024-08-11,East,Widget C,Carol,Online,17,66.89,1137.13,601.07,ok
+10435,2024-06-15,East, Widget B ,Bob,Online,10,81.04,810.4,453.84,ok
+10436,2024-02-28,North,Widget C,Bob,Online,18,84.38,1518.84,975.23,ok
+10437,2024-11-21,East,Widget E,Helen,Online,5,77.79,388.95,347.2,ok
+10438,2024-01-31,West,Widget E,Eva,Online,20,53.92,1078.4,798.01,ok
+10439,2024-03-12,South,widget a,Eva,Wholesale,14,46.12,645.68,421.25,ok
+10440,2024-06-17,West, Widget B ,Grace,Wholesale,1,123.71,123.71,49.75,ok
+10441,2024-12-09,North,Widget A,Helen,Retail,13,166.36,2162.68,,ok
+10442,2024-07-02,North,Widget C,Helen,Wholesale,10,162.64,1626.4,830.4,ok
+10443,2024-05-22,East,Widget A,Carol,Wholesale,18,42.79,770.22,592.61,ok
+10444,2024-05-20,East,widget a,Alice,Retail,18,124.82,2246.76,1663.37,ok
+10445,2024-09-21,East,Widget B,Frank,Online,8,14.16,113.28,97.33,ok
+10446,2024-05-07,South, Widget B ,Eva,Online,3,127.07,381.21,170.92,ok
+10447,2024-05-01,North,Widget A,Grace,Retail,20,90.51,1810.2,810.67,ok
+10448,2024-11-16,East,Widget B,Alice,Retail,2,114.06,228.12,124.89,ok
+10449,2024-12-11,West,Widget E,Carol,Wholesale,11,119.62,1315.82,597.39,ok
+10450,2024-01-23,East,Widget B,Helen,Retail,14,105.06,1470.84,,ok
+10451,2024-01-30,West, Widget B ,Bob,Retail,18,172.45,3104.1,1896.7,ok
+10452,2024-10-23,North,Widget D,David,Online,10,86.65,866.5,416.91,ok
+10453,2024-06-18,North,Widget E,Bob,Online,13,40.93,532.09,476.19,ok
+10454,2024-04-11,North,Widget B,Eva,Online,9,145.17,1306.53,744.6,ok
+10455,2024-04-17,East,widget a,Bob,Online,12,133.88,1606.56,1398.64,ok
+10456,2024-06-11,North, Widget B ,Carol,Retail,8,184.6,1476.8,1154.18,ok
+10457,2024-09-07,South,Widget D,Helen,Online,16,159.24,2547.84,1802.45,ok
+10458,2024-10-24,West,Widget D,David,Retail,19,131.7,2502.3,1260.16,ok
+10459,2024-03-09,N/A,Widget D,Helen,Retail,17,73.56,1250.52,865.34,ok
+10460,2024-05-15,North,Widget B,Bob,Online,3,62.43,187.29,121.9,ok
+10461,2024-12-15,North,Widget A,Eva,Retail,20,199.61,3992.2,3589.8,ok
+10462,2024-08-29,West,Widget E,Helen,Wholesale,5,173.77,868.85,446.41,ok
+10463,2024-08-01,North,Widget D,Frank,Retail,18,10.87,195.66,91.86,ok
+10464,2024-06-15,East,Widget D,David,Retail,2,184.82,369.64,176.26,ok
+10465,2024-06-04,West,Widget A,Grace,Retail,18,39.64,713.52,580.26,ok
+10466,2024-03-28,South,Widget D,David,Online,13,35.62,463.06,210.86,ok
+10467,2024-06-07,East,Widget E,David,Wholesale,15,58.71,880.65,355.54,ok
+10468,2024-05-27,East,Widget D,David,Online,12,141.56,1698.72,1283.93,ok
+10469,2024-07-20,West,Widget D,Grace,Wholesale,6,58.39,350.34,250.16,ok
+10470,2024-08-18,East,Widget C,Grace,Online,2,95.12,190.24,83.06,ok
+10471,2024-08-25,North, Widget B ,Carol,Online,18,133.12,2396.16,1813.39,ok
+10472,2024-12-09,West,Widget D,Alice,Wholesale,5,90.93,454.65,222.31,ok
+10473,2024-01-27,South,Widget A,Grace,Online,13,154.59,2009.67,1737.18,ok
+10474,2024-12-06,N/A,Widget E,Grace,Retail,14,104.94,1469.16,1186.81,ok
+10475,2024-01-07,West,Widget D,Eva,Wholesale,3,133.3,399.9,215.64,ok
+10476,2024-03-28,East,Widget C,Carol,Wholesale,11,196.38,2160.18,1616.16,ok
+10477,2024-11-07,West,Widget A,Bob,Retail,17,129.92,2208.64,1140.13,ok
+10478,2024-05-31,South,Widget B,Eva,Retail,2,51.42,102.84,78.43,ok
+10479,2024-01-13,West, Widget B ,David,Wholesale,11,52.24,574.64,384.81,ok
+10480,2024-04-08,West,Widget B,Bob,Retail,7,29.48,206.36,100.46,ok
+10481,2024-06-04,East,Widget D,Carol,Retail,7,58.01,406.07,321.06,ok
+10482,2024-09-03,East,Widget C,Grace,Retail,3,152.98,458.94,395.04,ok
+10483,2024-08-28,East,Widget D,Frank,Retail,1,7.5,7.5,4.88,ok
+10484,2024-03-04,South,Widget E,Helen,Wholesale,7,153.78,1076.46,945.72,ok
+10485,2024-09-01,East,Widget C,David,Wholesale,1,141.01,141.01,,ok
+10486,2024-07-15,North,widget a,Eva,Wholesale,3,106.11,318.33,157.39,ok
+10487,2024-02-15,North,Widget A,Carol,Retail,12,163.77,1965.24,1050.44,ok
+10488,2024-08-08,West,Widget B,David,Online,5,43.61,218.05,107.06,ok
+10489,2024-11-16,North,Widget E,David,Retail,6,20.56,123.36,54.63,ok
+10490,2024-10-25,North,Widget D,Helen,Retail,7,106.86,748.02,301.92,ok
+10491,2024-07-03,East,widget a,Carol,Online,2,195.18,390.36,326.55,ok
+10492,2024-08-19,South,Widget A,Frank,Online,16,105.41,1686.56,1231.38,ok
+10493,2024-02-11,North,Widget E,David,Wholesale,16,197.44,3159.04,2617.42,ok
+10494,2024-09-11,West,widget a,David,Online,18,197.51,3555.18,2251.86,ok
+10495,2024-01-15,South,widget a,Carol,Wholesale,13,154.43,2007.59,1024.25,ok
+10496,2024-11-03,West,Widget B,Eva,Online,13,132.51,1722.63,1365.25,ok
+10497,2024-02-29,West, Widget B ,Grace,Retail,11,191.04,2101.44,1446.75,ok
+10498,2024-10-29,West,Widget D,Helen,Online,18,171.21,3081.78,1719.52,ok
+10499,2024-06-12,West,Widget D,Eva,Wholesale,4,58.32,233.28,192.18,ok
+10500,2024-04-25,East,Widget A,Grace,Retail,6,172.07,1032.42,788.46,ok
+10501,2024-05-24,North, Widget B ,Eva,Retail,18,81.79,1472.22,685.25,ok
+10502,2024-04-21,East,Widget D,Grace,Wholesale,1,75.63,75.63,62.63,ok
+10503,2024-09-20,West,Widget C,Carol,Wholesale,5,127.26,636.3,383.05,ok
+10504,2024-11-28,West,Widget A,Helen,Retail,15,76.63,1149.45,528.75,ok
+10505,2024-08-10,North,Widget D,Helen,Online,11,17.38,191.18,163.35,ok
+10506,2024-04-16,South,Widget A,Alice,Online,6,173.09,1038.54,776.42,ok
+10507,2024-03-04,North,Widget E,Eva,Wholesale,18,38.46,692.28,615.13,ok
+10508,2024-06-29,West,Widget B,David,Wholesale,4,134.21,536.84,226.74,ok
+10509,2024-11-28,West,Widget A,Eva,Wholesale,3,189.22,567.66,419.08,ok
+10510,2024-03-24,South,widget a,Grace,Online,14,78.89,1104.46,974.14,ok
+10511,2024-04-25,North,Widget E,Helen,Online,8,78.83,630.64,285.37,ok
+10512,2024-01-25,East,Widget D,Carol,Retail,13,40.23,522.99,419.98,ok
+10513,2024-05-16,East,Widget D,Frank,Retail,12,142.96,1715.52,899.89,ok
+10514,2024-04-27,West,Widget A,Carol,Wholesale,10,84.27,842.7,468.85,ok
+10515,2024-08-05,South,Widget D,Alice,Wholesale,5,98.53,492.65,323.92,ok
+10516,2024-05-05,West,Widget B,Bob,Retail,17,138.4,2352.8,990.95,ok
+10517,2024-02-27,North,Widget B,Alice,Wholesale,18,170.9,3076.2,2549.87,ok
+10518,2024-01-19,South,Widget A,Frank,Wholesale,16,16.21,259.36,104.51,ok
+10519,2024-03-19,North,Widget C,Grace,Online,1,35.35,35.35,25.75,ok
+10521,2024-09-10,East,Widget B,Bob,Online,11,151.46,1666.06,,ok
+10522,2024-06-24,West,Widget E,Carol,Wholesale,1,89.69,89.69,48.86,ok
+10523,2024-12-07,East,Widget B,Bob,Online,4,141.72,566.88,369.13,ok
+10524,2024-02-16,West,Widget A,Grace,Wholesale,17,64.76,1100.92,788.98,ok
+10525,2024-06-12,N/A,Widget D,Carol,Retail,1,15.17,15.17,11.72,ok
+10526,2024-03-07,North,Widget B,Grace,Online,12,149.87,1798.44,1248.94,ok
+10527,2024-12-01,West, Widget B ,David,Wholesale,15,185.47,2782.05,1216.98,ok
+10528,2024-10-13,North,Widget B,Eva,Wholesale,15,127.82,1917.3,879.49,ok
+10529,2024-07-22,N/A,Widget D,Eva,Online,17,194.45,3305.65,1595.83,ok
+10530,2024-09-19,South,Widget B,David,Online,17,55.47,942.99,779.13,ok
+10531,2024-05-18,South,Widget C,Bob,Wholesale,8,197.96,1583.68,799.74,ok
+10532,2024-11-16,South,widget a,Grace,Wholesale,8,147.44,1179.52,636.76,ok
+10533,2024-05-17,West,Widget A,Helen,Online,13,35.35,459.55,237.06,ok
+10534,2024-11-27,East,Widget B,Helen,Wholesale,6,164.41,986.46,733.61,ok
+10535,2024-07-12,South,Widget C,Carol,Wholesale,1,153.87,153.87,111.13,ok
+10536,2024-06-22,N/A,Widget D,Carol,Online,5,98.68,493.4,336.22,ok
+10537,2024-10-05,East,Widget C,Eva,Online,14,32.66,457.24,391.44,ok
+10538,2024-02-26,South,Widget A,Carol,Online,10,74.68,746.8,528.62,ok
+10539,2024-06-03,South, Widget B ,Alice,Online,4,57.86,231.44,150.35,ok
+10540,2024-09-01,East, Widget B ,Grace,Retail,14,192.12,2689.68,1450.38,ok
+10541,2024-03-11,West,Widget D,Bob,Wholesale,8,79.72,637.76,430.28,ok
+10542,2024-04-30,South,Widget C,Carol,Retail,1,75.67,75.67,48.2,ok
+10543,2024-04-24,South,widget a,Bob,Retail,5,78.6,393.0,162.38,ok
+10544,2024-10-18,West,Widget D,Frank,Retail,6,96.6,579.6,272.44,ok
+10545,2024-03-29,North,widget a,David,Retail,14,137.58,1926.12,1614.07,ok
+10546,2024-07-24,West,Widget D,Frank,Wholesale,6,165.39,992.34,881.19,ok
+10547,2024-05-18,South,Widget A,David,Wholesale,20,156.87,3137.4,1781.21,ok
+10548,2024-05-17,North,Widget A,Frank,Retail,2,114.93,229.86,182.76,ok
+10549,2024-12-11,East,Widget D,Alice,Retail,17,24.7,419.9,337.49,ok
+10550,2024-04-20,South,Widget D,Carol,Retail,6,198.72,1192.32,775.97,ok
+10551,2024-07-17,North,Widget B,Eva,Wholesale,20,19.62,392.4,186.86,ok
+10552,2024-10-22,West,widget a,Carol,Online,6,143.58,861.48,543.05,ok
+10553,2024-12-14,North,widget a,Alice,Wholesale,20,190.65,3813.0,2237.63,ok
+10554,2024-02-23,South,Widget D,Helen,Wholesale,13,171.5,2229.5,1140.45,ok
+10555,2024-07-22,West,Widget A,Eva,Retail,11,17.57,193.27,110.4,ok
+10556,2024-11-03,North, Widget B ,Grace,Retail,12,158.96,1907.52,1696.32,ok
+10557,2024-12-30,East,Widget C,Eva,Online,7,135.58,949.06,502.74,ok
+10558,2024-12-22,South,widget a,Carol,Retail,19,80.88,1536.72,622.32,ok
+10559,2024-03-18,North,Widget D,Carol,Wholesale,16,173.54,2776.64,1268.38,ok
+10560,2024-12-22,North,Widget C,Frank,Online,13,47.15,612.95,309.47,ok
+10561,2024-08-21,West,Widget D,Frank,Online,18,88.04,1584.72,1405.7,ok
+10562,2024-08-11,East,Widget A,Helen,Wholesale,4,199.1,796.4,639.49,ok
+10563,2024-12-07,South,Widget C,Helen,Retail,8,156.49,1251.92,,ok
+10564,2024-05-25,East,Widget A,Alice,Online,10,168.5,1685.0,1343.9,ok
+10565,2024-03-28,North, Widget B ,Grace,Online,8,113.37,906.96,540.26,ok
+10566,2024-04-28,North, Widget B ,Carol,Retail,17,28.08,477.36,,ok
+10567,2024-11-12,South,Widget B,David,Wholesale,3,116.5,349.5,144.22,ok
+10568,2024-05-13,West,Widget E,Bob,Online,5,127.35,636.75,457.95,ok
+10569,2024-04-16,East,Widget D,Frank,Wholesale,1,85.68,85.68,,ok
+10570,2024-11-06,East,Widget E,Eva,Online,11,198.78,2186.58,1403.69,ok
+10571,2024-07-05,North,Widget D,David,Online,11,32.02,352.22,155.58,ok
+10572,2024-07-23,North,Widget B,David,Wholesale,7,138.98,972.86,820.76,ok
+10573,2024-02-25,North,Widget E,Eva,Wholesale,19,73.82,1402.58,1190.72,ok
+10574,2024-01-16,South,Widget B,Frank,Online,14,159.22,2229.08,1290.35,ok
+10575,2024-04-29,South,Widget E,Grace,Wholesale,20,46.37,927.4,471.8,ok
+10576,2024-01-24,North,Widget C,Alice,Wholesale,4,93.29,373.16,261.48,ok
+10577,2024-09-30,North,Widget C,Frank,Retail,1,18.54,18.54,8.3,ok
+10578,2024-08-20,North,Widget B,Bob,Retail,4,169.4,677.6,588.73,ok
+10579,2024-10-02,South,Widget C,Frank,Wholesale,2,55.64,111.28,88.19,ok
+10580,2024-03-02,South,Widget E,David,Wholesale,19,178.12,3384.28,2988.04,ok
+10581,2024-05-15,West,widget a,Bob,Online,12,113.91,1366.92,1143.34,ok
+10582,2024-02-23,East, Widget B ,Bob,Online,17,105.22,1788.74,995.75,ok
+10583,2024-07-23,West,Widget A,Bob,Online,6,138.82,832.92,,ok
+10584,2024-05-15,North,Widget D,Eva,Retail,12,89.14,1069.68,508.43,ok
+10585,2024-03-31,South,Widget B,Bob,Online,16,106.13,1698.08,771.93,ok
+10586,2024-12-24,East, Widget B ,David,Retail,4,47.88,191.52,155.52,ok
+10587,2024-12-24,West,Widget B,Alice,Wholesale,8,38.2,305.6,226.36,ok
+10588,2024-01-05,North,Widget E,Eva,Online,19,5.2,98.8,82.66,ok
+10589,2024-06-20,South,Widget C,Frank,Wholesale,18,55.18,993.24,638.9,ok
+10590,2024-09-22,West,Widget E,Grace,Retail,14,171.97,2407.58,1756.77,ok
+10591,2024-11-16,South,Widget C,Grace,Wholesale,15,197.53,2962.95,2483.09,ok
+10592,2024-11-09,West,widget a,Carol,Retail,19,193.79,3682.01,2931.51,ok
+10593,2024-05-27,North,Widget A,Grace,Retail,15,12.99,194.85,105.51,ok
+10594,2024-09-14,East,Widget E,Bob,Retail,5,190.97,954.85,722.44,ok
+10595,2024-07-23,South, Widget B ,Carol,Wholesale,9,184.44,1659.96,1159.51,ok
+10596,2024-10-17,West,widget a,Frank,Wholesale,6,78.31,469.86,393.72,ok
+10597,2024-01-15,South,Widget B,Eva,Online,14,22.24,311.36,146.43,ok
+10598,2024-09-22,North,Widget E,Helen,Wholesale,2,57.68,115.36,103.03,ok
+10599,2024-12-25,North,widget a,Alice,Retail,16,31.6,505.6,,ok
+10600,2024-02-19,East,Widget D,Carol,Online,1,167.38,167.38,104.09,ok
+10601,2024-03-15,North,Widget C,Bob,Wholesale,8,38.3,306.4,236.18,ok
+10602,2024-08-05,West,Widget A,Frank,Online,4,115.02,460.08,,ok
+10603,2024-09-14,South,Widget D,Carol,Retail,17,81.17,1379.89,595.26,ok
+10604,2024-08-29,South,Widget E,Grace,Online,17,156.2,2655.4,1759.78,ok
+10605,2024-12-13,East,Widget A,Alice,Wholesale,8,25.56,204.48,171.84,ok
+10606,2024-01-16,North,Widget D,Helen,Wholesale,15,78.64,1179.6,1055.08,ok
+10607,2024-02-14,East,Widget E,Bob,Retail,4,44.69,178.76,143.9,ok
+10608,2024-04-16,West,Widget D,Grace,Online,12,74.51,894.12,759.89,ok
+10609,2024-11-03,East,Widget C,Bob,Wholesale,10,184.84,1848.4,971.69,ok
+10610,2024-10-06,East,Widget C,David,Retail,16,187.7,3003.2,2680.26,ok
+10611,2024-02-01,South,Widget D,Bob,Wholesale,19,181.34,3445.46,2589.42,ok
+10612,2024-11-28,East,widget a,Alice,Wholesale,8,9.18,73.44,31.41,ok
+10613,2024-03-11,North,Widget B,David,Online,20,196.59,3931.8,2295.6,ok
+10614,2024-01-24,North,Widget C,Frank,Wholesale,8,163.46,1307.68,573.16,ok
+10615,2024-12-02,West,Widget D,Eva,Retail,18,45.14,812.52,611.52,ok
+10616,2024-10-04,East, Widget B ,David,Retail,14,142.57,1995.98,1419.01,ok
+10617,2024-04-30,East,Widget C,Bob,Online,15,190.84,2862.6,,ok
+10618,2024-04-24,North,Widget E,Frank,Retail,14,108.84,1523.76,1112.65,ok
+10619,2024-08-06,North, Widget B ,Helen,Retail,2,162.44,324.88,219.83,ok
+10620,2024-05-01,East,Widget A,Eva,Retail,9,21.68,195.12,102.43,ok
+10621,2024-10-18,South,Widget D,David,Retail,6,91.54,549.24,224.44,ok
+10622,2024-08-13,North,Widget B,Bob,Wholesale,9,55.61,500.49,324.05,ok
+10623,2024-04-26,North,Widget E,David,Retail,9,195.18,1756.62,716.8,ok
+10624,2024-07-09,South,Widget C,Grace,Wholesale,3,130.17,390.51,327.22,ok
+10625,2024-03-17,South,Widget B,Grace,Wholesale,20,46.24,924.8,514.7,ok
+10626,2024-04-24,North,Widget E,Helen,Wholesale,18,148.12,2666.16,1784.95,ok
+10627,2024-06-17,West,widget a,Grace,Retail,12,50.02,600.24,334.58,ok
+10628,2024-08-17,East,Widget E,Eva,Retail,5,185.51,927.55,484.62,ok
+10629,2024-11-19,West,widget a,Bob,Online,6,175.9,1055.4,430.35,ok
+10630,2024-09-28,South, Widget B ,Frank,Wholesale,12,29.85,358.2,268.1,ok
+10631,2024-08-17,South,Widget B,Alice,Wholesale,14,61.41,859.74,548.99,ok
+10632,2024-10-28,East,Widget C,Frank,Retail,8,62.98,503.84,287.47,ok
+10633,2024-04-17,West,Widget D,David,Online,20,66.3,1326.0,760.69,ok
+10634,2024-05-22,West,Widget A,Helen,Online,17,152.2,2587.4,1070.34,ok
+10635,2024-08-20,North,widget a,Bob,Retail,4,91.66,366.64,225.9,ok
+10636,2024-08-20,South,Widget B,Alice,Wholesale,3,142.83,428.49,238.84,ok
+10637,2024-05-15,West,Widget A,Grace,Online,6,148.04,888.24,480.8,ok
+10638,2024-07-13,West,Widget C,Helen,Retail,12,99.43,1193.16,869.18,ok
+10639,2024-05-27,South,Widget C,Grace,Wholesale,8,134.17,1073.36,491.5,ok
+10640,2024-04-30,North,widget a,Frank,Retail,7,178.51,1249.57,988.93,ok
+10641,2024-04-22,South,Widget E,Frank,Online,10,92.29,922.9,,ok
+10642,2024-06-19,East, Widget B ,Grace,Wholesale,18,17.38,312.84,132.83,ok
+10643,2024-05-07,North,Widget B,Eva,Retail,1,152.25,152.25,100.98,ok
+10644,2024-07-12,East,Widget A,Alice,Wholesale,9,173.09,1557.81,682.73,ok
+10645,2024-11-06,North,widget a,Helen,Retail,14,104.91,1468.74,604.7,ok
+10646,2024-12-25,South,Widget D,David,Wholesale,1,198.67,198.67,151.74,ok
+10647,2024-06-19,West,Widget A,Carol,Retail,3,23.6,70.8,34.31,ok
+10648,2024-09-09,North,Widget C,David,Wholesale,11,167.69,1844.59,771.51,ok
+10649,2024-09-20,North,Widget B,Bob,Online,3,184.64,553.92,339.47,ok
+10650,2024-09-25,North,Widget E,Frank,Wholesale,18,86.54,1557.72,630.3,ok
+10651,2024-07-09,East,Widget B,Helen,Online,15,46.07,691.05,390.5,ok
+10652,2024-04-06,South,widget a,David,Retail,15,69.55,1043.25,449.18,ok
+10653,2024-06-05,South,widget a,David,Retail,9,114.42,1029.78,742.27,ok
+10654,2024-06-18,West,Widget B,Carol,Online,20,59.06,1181.2,949.27,ok
+10655,2024-01-01,North,Widget E,Bob,Online,2,31.71,63.42,50.97,ok
+10656,2024-06-11,East,Widget E,Helen,Retail,7,191.3,1339.1,1168.69,ok
+10657,2024-01-13,West,Widget D,Frank,Online,12,147.06,1764.72,894.52,ok
+10658,2024-06-17,West,Widget D,Alice,Wholesale,9,103.04,927.36,376.97,ok
+10659,2024-08-29,South,Widget A,Frank,Online,16,38.89,622.24,482.22,ok
+10660,2024-08-02,West,widget a,Alice,Retail,15,129.31,1939.65,836.3,ok
+10661,2024-07-06,East,widget a,Eva,Online,13,86.19,1120.47,822.27,ok
+10662,2024-01-02,West,Widget A,Bob,Online,4,71.58,286.32,195.87,ok
+10663,2024-01-06,West,widget a,Carol,Retail,3,176.05,528.15,460.35,ok
+10664,2024-04-06,South,Widget C,Helen,Wholesale,10,55.57,555.7,344.42,ok
+10665,2024-04-17,North,Widget A,David,Retail,10,45.45,454.5,340.8,ok
+10666,2024-03-12,South, Widget B ,Alice,Online,19,78.69,1495.11,1037.9,ok
+10667,2024-03-24,East,Widget D,David,Retail,1,90.61,90.61,64.18,ok
+10668,2024-04-29,North,Widget B,Carol,Retail,17,26.03,442.51,271.24,ok
+10669,2024-03-07,West,Widget D,Carol,Retail,2,194.21,388.42,215.43,ok
+10670,2024-04-14,South,Widget A,Helen,Wholesale,5,138.52,692.6,569.89,ok
+10671,2024-05-04,North, Widget B ,Grace,Wholesale,5,67.08,335.4,291.0,ok
+10672,2024-11-07,South,widget a,David,Online,12,71.27,855.24,694.13,ok
+10673,2024-08-05,South,Widget D,Bob,Retail,16,11.79,188.64,165.86,ok
+10674,2024-03-06,North,Widget C,Grace,Retail,15,7.26,108.9,79.16,ok
+10675,2024-08-30,South,Widget B,Alice,Retail,12,26.78,321.36,157.28,ok
+10676,2024-01-25,East,Widget C,Eva,Online,16,94.75,1516.0,644.36,ok
+10677,2024-01-19,East,widget a,Carol,Wholesale,2,108.6,217.2,129.91,ok
+10678,2024-09-25,South,Widget D,Bob,Retail,11,77.7,854.7,,ok
+10679,2024-11-30,West,widget a,Alice,Retail,14,193.21,2704.94,2155.36,ok
+10680,2024-05-21,North, Widget B ,Grace,Wholesale,13,182.4,2371.2,1752.56,ok
+10681,2024-04-25,East,widget a,Frank,Wholesale,3,124.22,372.66,284.74,ok
+10682,2024-03-18,South,widget a,Helen,Wholesale,7,108.79,761.53,369.35,ok
+10683,2024-08-19,North, Widget B ,Eva,Wholesale,20,119.06,2381.2,1695.73,ok
+10684,2024-03-04,East,Widget E,Grace,Retail,4,116.3,465.2,227.63,ok
+10685,2024-12-06,West,Widget C,Helen,Online,11,102.95,1132.45,754.5,ok
+10686,2024-12-15,East,Widget E,Bob,Wholesale,14,194.98,2729.72,1651.88,ok
+10687,2024-08-29,West, Widget B ,Carol,Retail,1,149.88,149.88,126.16,ok
+10688,2024-03-08,West, Widget B ,Carol,Retail,7,117.63,823.41,518.42,ok
+10689,2024-05-05,West, Widget B ,Grace,Online,1,150.98,150.98,111.88,ok
+10690,2024-09-30,South,Widget D,Helen,Retail,2,62.13,124.26,74.46,ok
+10691,2024-03-27,South,Widget D,Helen,Online,5,183.03,915.15,730.09,ok
+10692,2024-10-17,South,widget a,Eva,Retail,5,33.86,169.3,92.14,ok
+10693,2024-12-21,East,Widget E,Alice,Retail,13,55.17,717.21,368.62,ok
+10694,2024-03-28,West,widget a,Carol,Wholesale,19,171.26,3253.94,,ok
+10695,2024-06-07,West,Widget E,Alice,Wholesale,20,156.71,3134.2,2490.55,ok
+10696,2024-06-17,West,Widget E,David,Online,18,170.09,3061.62,2047.81,ok
+10697,2024-08-21,South,Widget B,Eva,Online,9,112.64,1013.76,451.81,ok
+10698,2024-01-27,West,Widget E,Helen,Retail,7,98.27,687.89,427.14,ok
+10699,2024-11-25,North,Widget D,Carol,Retail,20,152.33,3046.6,2730.12,ok
+10700,2024-06-23,North,Widget C,Helen,Retail,10,127.05,1270.5,579.01,ok
+10701,2024-06-24,North,Widget C,Helen,Online,6,42.75,256.5,116.54,ok
+10702,2024-07-21,East, Widget B ,Eva,Online,20,134.21,2684.2,1510.78,ok
+10703,2024-06-30,N/A,Widget A,Grace,Retail,10,87.93,879.3,524.74,ok
+10704,2024-04-16,West, Widget B ,David,Wholesale,12,9.62,115.44,70.85,ok
+10705,2024-10-30,West,Widget C,Grace,Online,2,157.34,314.68,187.24,ok
+10706,2024-08-29,North,Widget E,David,Wholesale,11,195.55,2151.05,1648.19,ok
+10707,2024-05-29,South, Widget B ,Helen,Wholesale,3,174.79,524.37,393.08,ok
+10708,2024-12-26,North, Widget B ,Alice,Wholesale,1,32.35,32.35,23.33,ok
+10709,2024-10-02,East, Widget B ,Bob,Wholesale,3,148.21,444.63,303.53,ok
+10710,2024-05-21,East,Widget A,Grace,Wholesale,5,131.84,659.2,,ok
+10711,2024-05-12,South,widget a,Carol,Online,11,108.81,1196.91,869.92,ok
+10712,2024-01-21,North,Widget B,Grace,Retail,3,68.85,206.55,115.19,ok
+10713,2024-08-13,West,Widget D,Grace,Online,1,91.57,91.57,70.69,ok
+10714,2024-10-23,South,Widget D,David,Online,7,28.47,199.29,128.45,ok
+10715,2024-01-04,North,Widget B,Bob,Wholesale,4,74.16,296.64,,ok
+10716,2024-06-14,North,Widget A,David,Wholesale,6,115.09,690.54,320.39,ok
+10717,2024-09-22,West,Widget C,Grace,Wholesale,6,76.19,457.14,394.27,ok
+10718,2024-08-28,East,Widget A,Alice,Retail,14,14.07,196.98,115.93,ok
+10719,2024-10-01,South,Widget E,Bob,Retail,1,65.73,65.73,41.72,ok
+10720,2024-03-14,North,Widget B,Eva,Retail,4,144.87,579.48,313.59,ok
+10721,2024-03-08,East,widget a,Alice,Online,5,117.98,589.9,511.63,ok
+10722,2024-01-06,West,Widget D,Eva,Wholesale,12,41.61,499.32,416.81,ok
+10723,2024-04-05,North,Widget A,Frank,Retail,16,155.54,2488.64,1563.26,ok
+10724,2024-03-02,East,Widget D,David,Online,12,64.87,778.44,481.14,ok
+10725,2024-03-18,East,Widget C,Carol,Online,2,161.05,322.1,187.25,ok
+10726,2024-03-18,North,Widget D,Grace,Retail,14,172.37,2413.18,1301.21,ok
+10727,2024-12-08,West, Widget B ,Carol,Online,20,120.83,2416.6,1047.37,ok
+10728,2024-02-06,East,Widget B,Helen,Online,5,179.06,895.3,413.39,ok
+10729,2024-11-17,South, Widget B ,Frank,Retail,15,63.27,949.05,438.87,ok
+10730,2024-12-29,South,Widget B,Helen,Wholesale,10,48.8,488.0,220.34,ok
+10731,2024-05-21,South,widget a,Helen,Online,11,86.83,955.13,781.44,ok
+10732,2024-12-28,South,Widget E,Bob,Wholesale,19,78.29,1487.51,980.99,ok
+10733,2024-08-03,North,Widget D,Grace,Wholesale,2,72.72,145.44,115.49,ok
+10734,2024-07-30,North,Widget D,Alice,Retail,9,74.92,674.28,499.98,ok
+10735,2024-10-07,South,Widget E,David,Retail,12,157.29,1887.48,917.37,ok
+10736,2024-04-05,East,Widget C,Alice,Online,16,73.37,1173.92,942.6,ok
+10737,2024-10-02,East, Widget B ,Eva,Online,3,43.73,131.19,58.42,ok
+10738,2024-05-30,North,Widget A,Helen,Online,11,199.89,2198.79,1366.04,ok
+10739,2024-01-07,West,Widget D,Carol,Wholesale,20,99.24,1984.8,1229.53,ok
+10740,2024-07-05,South,widget a,Carol,Retail,12,76.08,912.96,787.66,ok
+10741,2024-09-16,West,Widget D,Eva,Wholesale,4,162.41,649.64,456.08,ok
+10742,2024-01-12,South,Widget A,Eva,Wholesale,2,179.69,359.38,229.4,ok
+10743,2024-03-09,East,Widget B,Frank,Online,15,65.42,981.3,734.6,ok
+10744,2024-02-02,East,Widget A,Helen,Wholesale,7,53.52,374.64,262.53,ok
+10745,2024-07-27,North,Widget D,Bob,Online,11,40.68,447.48,248.62,ok
+10746,2024-02-18,North,Widget E,Alice,Online,20,16.88,337.6,229.08,ok
+10747,2024-03-29,East,Widget E,Frank,Wholesale,6,109.37,656.22,582.65,ok
+10748,2024-08-15,North,Widget A,Frank,Wholesale,18,178.21,3207.78,2556.04,ok
+10749,2024-11-09,South,Widget C,David,Retail,18,167.2,3009.6,2383.7,ok
+10750,2024-09-02,East, Widget B ,David,Retail,19,24.26,460.94,304.18,ok
+10751,2024-07-12,North, Widget B ,Alice,Wholesale,4,67.7,270.8,173.87,ok
+10752,2024-03-29,North, Widget B ,Grace,Wholesale,18,10.45,188.1,166.16,ok
+10753,2024-02-20,North,Widget A,Grace,Online,8,143.92,1151.36,502.55,ok
+10754,2024-06-18,West,Widget E,Eva,Retail,8,77.5,620.0,507.71,ok
+10755,2024-05-19,North,Widget E,Alice,Wholesale,14,78.54,1099.56,903.09,ok
+10756,2024-11-22,East,Widget C,Eva,Retail,16,17.97,287.52,192.2,ok
+10757,2024-02-14,North, Widget B ,Grace,Online,5,106.05,530.25,221.56,ok
+10758,2024-03-14,North,Widget B,Frank,Retail,17,154.52,2626.84,1298.93,ok
+10759,2024-05-29,West,Widget E,Eva,Wholesale,7,70.5,493.5,375.35,ok
+10760,2024-09-30,East,Widget A,Alice,Retail,11,77.22,849.42,400.71,ok
+10761,2024-01-11,West,widget a,Helen,Wholesale,19,130.73,2483.87,1344.36,ok
+10762,2024-10-01,East,Widget C,Alice,Retail,10,129.23,1292.3,629.58,ok
+10763,2024-07-24,West,Widget D,Helen,Retail,7,188.67,1320.69,806.37,ok
+10764,2024-04-07,South,widget a,Eva,Online,20,75.87,1517.4,958.52,ok
+10765,2024-11-15,East,Widget D,Alice,Wholesale,11,112.58,1238.38,592.39,ok
+10766,2024-03-20,West,Widget C,Alice,Wholesale,7,34.38,240.66,,ok
+10767,2024-02-16,South,Widget E,Helen,Retail,7,150.0,1050.0,922.93,ok
+10768,2024-03-18,North,widget a,David,Online,20,84.89,1697.8,1155.92,ok
+10769,2024-08-30,East,Widget D,Alice,Retail,1,119.3,119.3,106.64,ok
+10770,2024-03-10,South,Widget C,Bob,Retail,5,26.64,133.2,115.55,ok
+10771,2024-07-05,East,Widget A,David,Wholesale,9,196.5,1768.5,1507.01,ok
+10772,2024-12-02,North,Widget C,Grace,Online,18,11.12,200.16,167.34,ok
+10773,2024-09-19,West,Widget D,Eva,Retail,14,142.92,2000.88,932.75,ok
+10775,2024-03-20,North,widget a,Carol,Online,15,128.05,1920.75,1086.09,ok
+10776,2024-12-17,West,Widget E,Carol,Retail,3,80.45,241.35,172.02,ok
+10777,2024-02-10,South,Widget B,Carol,Retail,5,176.24,881.2,606.02,ok
+10778,2024-09-16,North,Widget C,Carol,Online,9,165.77,1491.93,1145.39,ok
+10779,2024-02-10,South,widget a,Bob,Wholesale,15,7.34,110.1,85.01,ok
+10780,2024-06-02,West,Widget C,Grace,Retail,7,49.48,346.36,168.08,ok
+10781,2024-03-12,East,Widget B,Carol,Online,5,82.89,414.45,168.67,ok
+10782,2024-03-22,East, Widget B ,Carol,Retail,18,59.15,1064.7,527.0,ok
+10783,2024-05-28,East,Widget C,Eva,Wholesale,16,161.71,2587.36,1573.56,ok
+10784,2024-12-18,South,widget a,David,Retail,16,17.31,276.96,172.7,ok
+10785,2024-06-18,West, Widget B ,David,Retail,11,157.41,1731.51,1188.05,ok
+10786,2024-11-15,West,Widget D,David,Retail,15,122.51,1837.65,1553.65,ok
+10787,2024-06-16,West, Widget B ,David,Wholesale,18,33.49,602.82,323.34,ok
+10788,2024-05-24,East,Widget A,Frank,Retail,1,63.14,63.14,31.7,ok
+10789,2024-06-09,South,Widget A,Bob,Online,9,43.57,392.13,275.77,ok
+10790,2024-11-17,North,Widget E,Alice,Wholesale,6,68.69,412.14,337.15,ok
+10791,2024-03-24,West,Widget D,Alice,Wholesale,12,194.6,2335.2,1328.91,ok
+10792,2024-08-17,West,Widget D,Alice,Online,9,49.34,444.06,190.17,ok
+10793,2024-07-17,N/A,Widget E,Bob,Online,1,104.5,104.5,56.93,ok
+10794,2024-10-24,North,Widget C,Frank,Wholesale,6,82.45,494.7,235.54,ok
+10795,2024-05-13,East,Widget B,Carol,Online,15,10.62,159.3,111.78,ok
+10796,2024-06-01,North,Widget B,Alice,Retail,19,164.48,3125.12,1814.04,ok
+10797,2024-06-16,West,Widget A,Bob,Online,6,184.56,1107.36,708.81,ok
+10798,2024-07-14,South,Widget A,Eva,Retail,4,15.44,61.76,31.35,ok
+10799,2024-04-14,West,Widget D,Eva,Retail,1,176.66,176.66,152.99,ok
+10800,2024-12-13,N/A,widget a,Bob,Retail,14,166.94,2337.16,1416.81,ok
+10801,2024-04-06,West, Widget B ,David,Wholesale,1,199.19,199.19,84.07,ok
+10802,2024-03-24,East,Widget C,Helen,Retail,18,110.45,1988.1,1114.04,ok
+10803,2024-07-03,East,Widget A,Frank,Wholesale,9,177.53,1597.77,904.98,ok
+10804,2024-10-20,North,Widget E,Bob,Wholesale,7,165.81,1160.67,694.28,ok
+10805,2024-06-20,South,widget a,Grace,Wholesale,12,111.95,1343.4,802.65,ok
+10806,2024-04-06,N/A,Widget B,Grace,Retail,17,160.99,2736.83,1772.38,ok
+10807,2024-03-02,East,Widget A,Eva,Retail,3,18.07,54.21,33.95,ok
+10808,2024-10-30,East, Widget B ,Bob,Retail,2,102.5,205.0,118.03,ok
+10809,2024-07-13,South,Widget D,Grace,Wholesale,3,97.6,292.8,196.72,ok
+10810,2024-08-19,West,Widget A,Carol,Retail,1,138.35,138.35,96.39,ok
+10811,2024-10-26,South,Widget D,Bob,Wholesale,6,180.94,1085.64,593.51,ok
+10812,2024-11-30,West,Widget B,Helen,Wholesale,2,63.94,127.88,65.44,ok
+10813,2024-08-12,South,Widget D,Helen,Online,14,9.0,126.0,83.49,ok
+10814,2024-12-06,East,widget a,David,Retail,8,181.79,1454.32,1218.38,ok
+10815,2024-04-04,N/A,Widget C,Alice,Wholesale,2,50.29,100.58,47.64,ok
+10816,2024-03-11,South,Widget B,Grace,Wholesale,16,161.24,2579.84,1275.3,ok
+10817,2024-03-15,East, Widget B ,Frank,Online,17,198.02,3366.34,1468.72,ok
+10818,2024-04-08,West,Widget E,Grace,Wholesale,13,92.72,1205.36,986.21,ok
+10819,2024-11-03,North,Widget D,Eva,Retail,3,142.37,427.11,336.79,ok
+10820,2024-06-06,East,Widget D,Frank,Online,16,80.29,1284.64,1073.42,ok
+10821,2024-05-17,West,Widget C,Eva,Online,20,105.14,2102.8,1170.26,ok
+10822,2024-11-09,West, Widget B ,Helen,Wholesale,10,42.04,420.4,312.35,ok
+10823,2024-11-20,West,Widget E,Frank,Online,16,78.12,1249.92,744.72,ok
+10824,2024-01-02,North,Widget E,Grace,Online,9,185.92,1673.28,1049.78,ok
+10825,2024-07-17,North,Widget A,Eva,Online,4,75.46,301.84,241.67,ok
+10826,2024-01-06,North,Widget E,Frank,Online,9,60.42,543.78,282.95,ok
+10827,2024-07-15,West,Widget A,Bob,Online,6,22.78,136.68,105.27,ok
+10828,2024-02-24,South, Widget B ,Bob,Retail,14,118.03,1652.42,1156.46,ok
+10829,2024-01-12,East, Widget B ,Helen,Wholesale,16,90.15,1442.4,1208.12,ok
+10830,2024-07-25,West,Widget A,David,Wholesale,13,58.46,759.98,,ok
+10831,2024-01-11,North,Widget D,Carol,Online,14,22.44,314.16,165.71,ok
+10832,2024-07-14,North,Widget A,Eva,Retail,3,142.89,428.67,205.49,ok
+10833,2024-06-08,East,Widget C,Helen,Retail,3,126.08,378.24,259.59,ok
+10834,2024-02-21,East,Widget E,Carol,Online,18,29.21,525.78,331.91,ok
+10835,2024-01-30,North,Widget D,David,Retail,16,35.4,566.4,264.02,ok
+10836,2024-07-12,East,Widget E,Helen,Wholesale,17,160.77,2733.09,2019.1,ok
+10837,2024-09-25,North,Widget A,Grace,Retail,16,29.62,473.92,198.2,ok
+10838,2024-11-22,West,Widget B,Alice,Online,19,159.15,3023.85,2342.31,ok
+10839,2024-03-07,West,Widget D,Grace,Online,5,179.92,899.6,774.89,ok
+10840,2024-09-02,North,Widget A,Alice,Wholesale,10,184.79,1847.9,892.49,ok
+10841,2024-06-26,East, Widget B ,Alice,Wholesale,2,161.24,322.48,223.42,ok
+10842,2024-07-12,North,Widget D,David,Online,9,33.07,297.63,232.47,ok
+10843,2024-03-18,West, Widget B ,Bob,Online,7,5.11,35.77,15.49,ok
+10844,2024-06-24,South,widget a,Frank,Wholesale,16,191.36,3061.76,1619.8,ok
+10845,2024-05-05,East,Widget A,Eva,Retail,16,58.08,929.28,808.45,ok
+10846,2024-08-25,North,Widget A,David,Online,18,103.64,1865.52,1131.11,ok
+10847,2024-08-11,West,Widget D,Helen,Retail,14,97.27,1361.78,565.54,ok
+10848,2024-06-21,East,Widget E,Grace,Retail,13,171.37,2227.81,1003.25,ok
+10849,2024-08-29,South,Widget A,Carol,Retail,12,137.35,1648.2,1415.87,ok
+10010,2024-06-18,West,Widget B,Helen,Retail,16,46.78,748.48,348.91,ok
+10011,2024-01-28,West,Widget B,Helen,Online,4,16.82,67.28,51.41,ok
+10012,2024-10-08,N/A,Widget D,Helen,Retail,18,168.03,3024.54,2675.2,ok
+10013,2024-08-20,North,Widget E,Alice,Wholesale,18,134.06,2413.08,1552.42,ok
+10014,2024-09-17,West,Widget E,Alice,Wholesale,20,18.25,365.0,303.28,ok
+10015,2024-06-09,South,Widget A,David,Wholesale,10,94.16,941.6,814.02,ok
+10016,2024-08-12,North,widget a,Bob,Online,20,196.85,3937.0,3163.58,ok
+10017,2024-06-24,East, Widget B ,Eva,Online,9,103.55,931.95,489.8,ok
+10019,2024-07-02,East,Widget B,Carol,Online,4,73.97,295.88,201.18,ok
+10020,2024-05-07,West,Widget C,Eva,Online,4,79.6,318.4,133.52,ok
+10021,2024-05-22,North,Widget A,Bob,Wholesale,18,69.57,1252.26,518.19,ok
+10022,2024-10-22,West,Widget C,Grace,Online,14,5.33,74.62,64.38,ok
+10023,2024-09-16,East,widget a,Carol,Wholesale,13,140.96,1832.48,,ok
+10024,2024-10-23,East,widget a,Bob,Retail,15,91.22,1368.3,693.52,ok
