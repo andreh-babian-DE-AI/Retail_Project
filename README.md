@@ -8,7 +8,8 @@ Retail\_Project is an end-to-end data pipeline project that demonstrates how Pyt
 
 The project showcases practical data engineering and data analysis techniques using Python and industry-standard libraries to transform raw retail sales data into clean, validated, and analysis-ready datasets.
 
-[click here to run notebook01](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
+[data transformation/cleaning/preparation notebook](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F01_Data_Exploration.ipynb)
+[data visualization notebook](https://mybinder.org/v2/gh/andreh-babian-DE-AI/Retail_Project/main?urlpath=%2Fdoc%2Ftree%2F02_Sales_Data_Visualization.ipynb)
 
 ## Project Objectives
 
